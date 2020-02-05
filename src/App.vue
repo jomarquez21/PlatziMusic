@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://jomarquez21.github.io/PlatziMusic/assets/logo.png">
     <h1>PlatziMusic</h1>
 
     <select v-model="countrySelected">
